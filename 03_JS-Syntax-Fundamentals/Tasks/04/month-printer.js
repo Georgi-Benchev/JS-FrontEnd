@@ -14,7 +14,7 @@ function convertNumberToMonth(num){
     }else if(num === 6){
         console.log(`June`);
     }else if(num === 7){
-        console.log(`Juny`);
+        console.log(`July`);
     }else if(num === 8){
         console.log(`August`);
     }else if(num === 9){
@@ -28,8 +28,6 @@ function convertNumberToMonth(num){
     }else{
         console.log(`Error!`);
     }
-
-   
 }
 
 convertNumberToMonth(2);
